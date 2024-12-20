@@ -8,3 +8,5 @@ First install mnemonic bip32 ecdsa requests::
 Final command:: 
 
 <b> python bip39_balance_checker.py </b>
+
+<b> WE WON'T BE HELD RESPONSIBLE FOR ANY DAMAGE! THIS TOOL IS JUST FOR FUN DON'T USE IT TO HACK SOMEONE'S WALLET </b>
